@@ -293,6 +293,12 @@ address {
         margin-bottom: 72px;
 }
 
+.ourportfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+}
+
 .bloc-one{
     margin-bottom: 48px;
     display: flex;
@@ -338,7 +344,9 @@ address {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;        
+        color: #4d5ae5;
+        display: inline-block;
+        margin-bottom: 16px
 }
 
 .footer-logo-span {
@@ -351,7 +359,6 @@ address {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #f4f4fd;
-        padding-top: 16px;
+        color: #f4f4fd;        
         max-width: 164px;
 }
