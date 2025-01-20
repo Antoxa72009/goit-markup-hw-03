@@ -74,11 +74,6 @@ address {
     align-items: center;
 }
 
-.logo {
-    display: flex;
-    margin-right: 76px;
-}
-
 .header-logo {
     font-family: 'Raleway',
         sans-serif;
