@@ -95,10 +95,6 @@ address {
     gap: 40px;
 }
 
-.header-menu-item {
-    margin-right: 40px;
-}
-
 .header-menu-list li:first-child .header-menu-link {
     color: #2e2f42;
 }
@@ -118,6 +114,7 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     padding: 24px 0;
+    margin-right: 40px;
 }
 
 .contacts {
