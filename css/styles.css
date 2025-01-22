@@ -116,10 +116,6 @@ address {
     padding: 24px 0;
     margin-right: 40px;
 }
-.contacts {
-    display: flex;
-    gap: 40px;
-}
 
 .header-contacts-info {
     font-weight: 400;
